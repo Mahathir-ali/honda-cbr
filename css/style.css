@@ -8,6 +8,13 @@
 .para-1 {
   font-size: 14px;
 }
+.para-2 {
+  text-align: justify;
+}
+.container-1 img {
+  width: 450px;
+  height: 400px;
+}
 .bike-collection {
   color: #e76f51;
 }
@@ -43,7 +50,7 @@ span {
   height: 423px;
 }
 .newsletter h3 {
-  font-size: 24px;
+  font-size: 1.5rem;
   letter-spacing: 2px;
 }
 iframe {
